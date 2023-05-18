@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @psilva
-- 👀 I’m interested in C#,Python
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in C#,Python,IOT
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Industrial Automation Projects , using C# and Python
 - 📫 How to reach me ...
 
